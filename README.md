@@ -1,12 +1,15 @@
 # Data Analyst
 
-#### Technical Skills: Microsoft Azure. Python, C#, R Programming, SQL, Python, Power BI, Tableau, Redis, MS Office.
+## About Me
+I am a passionate and driven professional who is pursuing a dual master's degree in Business Management and Supply Chain Analytics from Rutgers Business School and XLRI Jamshedpur. My goal is to leverage my academic knowledge and diverse experience to optimize logistics and supply chain operations for organizations that value innovation and customer satisfaction.
 
-#### Certifications: Lean Six Sigma Green Belt, Microsoft DP-900, Microsoft AZ-900, Python-Data Science, Machine Learning for Data Analytics, Microsoft Excel, MRP, ERP
+I have interned in the packaging purchase division at Trident Group India, where I applied my skills in procurement, inventory management, demand forecasting, and vendor relationship management. I successfully completed two projects that involved saving cost and reducing complexity in the display and thread segments, without compromising on quality. I have also demonstrated my proficiency in using tools such as SQL, Azure Data Warehouse, Azure Functions, Azure Logic Apps, Redis Cache Services, Azure Cosmos DB, and SonarCube. Previously, I worked as a Senior Analyst at Capgemini, where I was part of the team that built algorithms to provide offers to the consumers of Altria Group, one of the world's largest tobacco products manufacturers. 
+
+I have a strong foundation in both technical and business disciplines, thanks to my bachelor's degree in Mechanical Engineering from NIT Hamirpur and my certifications in Lean Six Sigma Green Belt and Implementing Microsoft Azure Infrastructure Solutions. I have a keen eye for detail and analytical prowess, enabling me to tackle complex business challenges and deliver data-driven insights. I am also an effective communicator and team player, thriving in collaborative environments and building relationships with stakeholders at all levels. I am eager to contribute my expertise to organizations that share my values and vision. If you are interested in connecting or discussing potential collaborations, please feel free to reach out.
 
 ## Education
 - M.S, Supply Chain & Data Analytics          | Rutgers University,New Jersey (_May 2024_)								       		
-- M.B.A.(Logistics & Supply Chain Management) | XLRI Jamshedpur (_May 2023_)	 			        		
+- M.B.A.(Logistics & SupplyChain Management)  | XLRI Jamshedpur (_May 2023_)	 			        		
 - B.S., Mechanical Engineering                | National Institute of Technology Hamirpur (_May 2021_)
 
 ## Work Experience
@@ -32,6 +35,9 @@
 - Lead automation of Azure DevOps processes through development of custom scripts, resulting in a 40% reduction in manual effort and notable 25% enhancement in pipeline reliability, catalyzing digital evolution of supply chain operations.
 - Collaborated with cross-functional teams to architect and deploy Azure DevOps CI/CD processes, achieving 60% reduction in deployment time and a 20% increase in deployments, marking a paradigm shift in supply chain agility & efficiency.
 
+**Technical Skills:** Microsoft Azure. Python, C#, R Programming, SQL, Python, Power BI, Tableau, Redis, MS Office.
+
+**Certifications:** Lean Six Sigma Green Belt, Microsoft DP-900, Microsoft AZ-900, Python-Data Science, Machine Learning for Data Analytics, Microsoft Excel, MRP, ERP
 
 ## Projects
 ### Finlatics (Live Financial Project)

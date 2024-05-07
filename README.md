@@ -6,7 +6,7 @@
 
 ## Education
 - M.S, Supply Chain & Data Analytics          | Rutgers University,New Jersey (_May 2024_)								       		
-- M.B.A., Logistics & Supply Chain Management	| XLRI Jamshedpur (_May 2023_)	 			        		
+- M.B.A.(Logistics & Supply Chain Management) | XLRI Jamshedpur (_May 2023_)	 			        		
 - B.S., Mechanical Engineering                | National Institute of Technology Hamirpur (_May 2021_)
 
 ## Work Experience
@@ -34,20 +34,30 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+### Finlatics (Live Financial Project)
+-Developed, managed, and maintained a real-time simulated portfolio comprising BSE 500 listed companies, utilizing Python for data collection, analysis, and portfolio optimization.
+- Conducted in-depth research and analysis on macroeconomic indicators, sector-specific trends, and company fundamentals to identify investment opportunities and inform portfolio allocation decisions. Generated an average alpha of 2.5% annually through strategic sector rotation and stock selection strategies.
+- Evaluated investment proposals from start-ups with high growth potential, employing financial modeling techniques in Python. Assessed over 50 investment opportunities, resulting in successful investments in 8 start-ups with an average internal rate of return (IRR) of 20%
 
 
+### E-comics Demand Planning
+- Utilized Python to implement the Bass Model equation, computing cumulative adopters of e-comics at distinct time intervals by incorporating coefficients of innovation and imitation, thereby predicting market demand dynamics effectively.
+- Conduct a comprehensive market size estimation for e-comics, integrating household demographics, internet penetration rates, and consumer behavior parameters to accurately assess market potential and inform strategic decision-making.
+- Engineered an iterative forecasting model using Python, spanning from 2015 to 2030, to identify key inflection points and anticipate potential market situation phases, enabling proactive adjustments to marketing and distribution strategies.
+- Devised an innovative approach, leveraging Python's data analysis capabilities, to estimate coefficients of innovation and imitation for the Bass Model, incorporating factors such as digital awareness, social media influence, and historical adoption patterns to enhance forecasting accuracy.
+- Formulated solutions with positive net present value (NPV) across multiple scenarios using Python's financial modeling libraries, providing insights into the venture's viability and potential profitability, facilitating informed investment decisions.
+
+### Store Inventory Data Analysis (Data Management) 
+- Conducted in-depth analysis of company inventory data to revamp stocking levels, pricing, and overall inventory management.
+- Optimized inventory through SQL queries, enhancing efficiency, reducing costs, and enhancing profitability. Delivered actionable insights for strategic decision-making in pricing and stocking levels.
+- Built Data Visualization Dashboards showcasing live inventory data preventing stockouts and excess stock by 10%, ultimately contributing to improving profitability.
+
+### Revanta Motorsports 
+- Led a 15-member team as overall business head, devised a business plan & and oversaw raw material procurement.
+- Gathered 1.5 lakh in sponsorship, achieved 2nd best business Idea & 14/108 position in main event.
+
+### EDM Simulation Project
+- Established using Cooper Die Steel Tool decreased tool wear by 12- 15% through simulation.
+- Increased tool life by 18% & and efficiency by 10% for the EDM process using the Copper Die Steel Composite tool.
 
 

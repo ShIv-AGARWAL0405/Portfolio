@@ -1,17 +1,15 @@
-# Data Scientist
+# Data Analyst
 
-#### Technical Skills: Microsoft Azure. Python, C#, R Programming, SQL, Python, Power BI, Tableau, Redis, MS Office.![image](https://github.com/ShIv-AGARWAL0405/portfolio/assets/169192603/f819d0f9-cef9-4fe3-bbcf-6ec86e752068)
+#### Technical Skills: Microsoft Azure. Python, C#, R Programming, SQL, Python, Power BI, Tableau, Redis, MS Office.
 
 #### Certifications: Lean Six Sigma Green Belt, Microsoft DP-900, Microsoft AZ-900, Python-Data Science, Machine Learning for Data Analytics, Microsoft Excel, MRP, ERP
 
 ## Education
-- M.S, Supply Chain & Data Analytics | Rutgers University,New Jersey (_May 2024_)								       		
+- M.S, Supply Chain & Data Analytics          | Rutgers University,New Jersey (_May 2024_)								       		
 - M.B.A., Logistics & Supply Chain Management	| XLRI Jamshedpur (_May 2023_)	 			        		
-- B.S., Mechanical Engineering | National Institute of Technology Hamirpur (_May 2021_)
+- B.S., Mechanical Engineering                | National Institute of Technology Hamirpur (_May 2021_)
 
 ## Work Experience
-![image](https://github.com/ShIv-AGARWAL0405/portfolio/assets/169192603/e50ddc46-eb1d-4057-a3a3-f7274aabf5e7)
-
 **Supply Chain Analyst @Chanel, USA  (_Jan 2024 - May 2024_)**
 - Conducted in-depth analysis of domestic shipments, leveraging data-driven insights to optimize warehouse and store inventory levels, resulting in improved demand aggregation.
 - Strategically optimized warehouse networks and segmented boutiques using advanced cluster analysis techniques, effectively balancing distribution loads according to capacity constraints.
